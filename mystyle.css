@@ -1,0 +1,48 @@
+body{
+	background-color: #DAD7C7;
+}
+#searcharea{
+	width: 30%;
+	margin-left: 450px;
+	background-color: #c9a87c;
+	text-align: center;
+	height: 145px;
+	border-radius: 15px 15px 2px 2px;
+}
+label{
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	color: #a52e22;
+}
+li{
+	display: inline-block;
+}
+#name{
+	font-family: arial;
+	color: #ac6c5e;
+	font-size: 20px;
+	font-weight: bold;
+}
+ul{
+	background-color: white;
+	width: 65%;
+	margin-left: 200px;
+}
+#linea{
+	margin-right: 200px;
+	width: 90%;
+}
+#texto{
+	text-align: left;
+	width: 95%;
+}
+ul{
+	margin:0 auto;
+}
+#search{
+	width: 75%;
+	border-radius: 5px 5px 5px 5px;
+	border: none;
+	text-align: center;
+}
